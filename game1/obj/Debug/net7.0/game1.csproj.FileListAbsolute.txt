@@ -1,0 +1,14 @@
+C:\Users\natal\OneDrive\Рабочий стол\Git-game\game1\bin\Debug\net7.0\game1.exe
+C:\Users\natal\OneDrive\Рабочий стол\Git-game\game1\bin\Debug\net7.0\game1.deps.json
+C:\Users\natal\OneDrive\Рабочий стол\Git-game\game1\bin\Debug\net7.0\game1.runtimeconfig.json
+C:\Users\natal\OneDrive\Рабочий стол\Git-game\game1\bin\Debug\net7.0\game1.dll
+C:\Users\natal\OneDrive\Рабочий стол\Git-game\game1\bin\Debug\net7.0\game1.pdb
+C:\Users\natal\OneDrive\Рабочий стол\Git-game\game1\obj\Debug\net7.0\game1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\OneDrive\Рабочий стол\Git-game\game1\obj\Debug\net7.0\game1.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Рабочий стол\Git-game\game1\obj\Debug\net7.0\game1.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Рабочий стол\Git-game\game1\obj\Debug\net7.0\game1.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Рабочий стол\Git-game\game1\obj\Debug\net7.0\game1.dll
+C:\Users\natal\OneDrive\Рабочий стол\Git-game\game1\obj\Debug\net7.0\refint\game1.dll
+C:\Users\natal\OneDrive\Рабочий стол\Git-game\game1\obj\Debug\net7.0\game1.pdb
+C:\Users\natal\OneDrive\Рабочий стол\Git-game\game1\obj\Debug\net7.0\game1.genruntimeconfig.cache
+C:\Users\natal\OneDrive\Рабочий стол\Git-game\game1\obj\Debug\net7.0\ref\game1.dll
