@@ -26,7 +26,7 @@ System.Console.WriteLine();
 System.Console.WriteLine("Level 2");
 System.Console.WriteLine("Сможешь умножить в уме 18 на 23?");
 int answer2 = Convert.ToInt32(Console.ReadLine());
-if (answer2 == 41)    
+if (answer2 == 414)    
 {
     System.Console.WriteLine("Решено верно, идем дальше ");
 }
